@@ -1,2 +1,2 @@
 # vigilant-octo-giggle
-Games projects
+Games projects. I am coding a sudoku game using Python.
